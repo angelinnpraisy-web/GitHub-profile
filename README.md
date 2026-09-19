@@ -2,7 +2,7 @@
 
 Welcome to my GitHub profile!  
 Check out my **Portfolio Website** here:  
-👉 [angelinnpraisy-web.github.io/GitHub-profile](https://angelinnpraisy-web.github.io/GitHub-profile/)
+👉 [angelinnpraisy-web.github.io/GitHub-profile](https://github.com/angelinnpraisy-web/GitHub-profile)
 
 ### 🚀 About Me
 - 🌐 Web Developer (HTML, CSS, JS, Three.js)
